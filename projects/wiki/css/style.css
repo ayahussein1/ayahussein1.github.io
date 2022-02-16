@@ -1,0 +1,48 @@
+/*
+font-family: 'Nunito', sans-serif;
+
+Extra-light 200
+Extra-light 200 italic
+Light 300
+Light 300 italic
+Regular 400
+Regular 400 italic
+Medium 500
+Medium 500 italic
+Semi-bold 600
+Semi-bold 600 italic
+Bold 700
+Bold 700 italic
+Extra-bold 800
+Extra-bold 800 italic
+Black 900
+Black 900 italic
+*/
+
+/*
+font-family: 'Anton', sans-serif;
+
+Regular 400
+*/
+
+h2 {color:red}
+
+#betaBanner {
+    color:black;
+    background-color:#F6BEBE;
+    padding:20px;
+    padding-left:40px;
+}
+
+img {
+    width:50%;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 2.5em;
+}
