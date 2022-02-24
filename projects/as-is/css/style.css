@@ -1,0 +1,79 @@
+.photo {
+    color: #ff4500;
+}
+
+.intro {
+    color: #ff4500;
+}
+
+.africa {
+    color: #ff4500;
+}
+
+.china {
+    color: #ff4500;
+}
+
+.greek {
+    color: #ff4500;
+}
+
+.orgin {
+    color: #778899;
+}
+
+.creature {
+    color: #778899;
+}
+
+.apep {
+    color: #778899;
+}
+
+.ranking {
+    color: #778899;
+}
+
+.ilaid {
+    color: #778899;
+}
+
+.read {
+    color: #778899;
+}
+
+img {
+    width: 50%;
+}
+
+body {
+    font-family: 'Gudea', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Mukta Mahee', sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    line-height: 50%;
+}
+
+h2 {
+    font-family: 'Mukta Mahee', sans-serif;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.illustration {
+    line-height: 5%;
+}
+
+.free {
+    line-height: 5%;
+}
+
+div {
+    border: solid;
+    color: #2e8b57;
+}
