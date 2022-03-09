@@ -68,3 +68,13 @@ a:hover,
 .block img {
     margin: 20px 0;
 }
+
+@media (max-width:450px) {
+    h1 {
+        color:#7C616C;
+        font-size: 3em;
+    }
+    .nav {
+        font-size: .5em;
+    }
+}
