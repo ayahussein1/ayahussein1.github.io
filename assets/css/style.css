@@ -1,0 +1,60 @@
+/*
+Heading font:
+
+font-family: 'Anton', sans-serif;
+font-family: 'Fredoka One', cursive;
+font-family: 'Lobster Two', cursive;
+
+Subheading font:
+
+font-family: 'Anton', sans-serif;
+font-family: 'Fredoka One', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lobster Two', cursive;
+*/
+
+body {
+    font-family: 'Josefin Sans', sans-serif;  
+    background: #eaf7f3; 
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fredoka One'; 
+    font-weight: 300; 
+    letter-spacing: 4px; 
+    font-size: 50px;
+    text-align: center;
+    color:#335547;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fredoka One';
+    font-weight: 100;
+    font-size: 25px;
+    text-align: center;
+    color:#335547;
+}
+
+h3 {
+    color:#335547;
+    border-bottom: 1px solid #335547;
+    padding-bottom:5px;
+}
+
+h5 {
+    color:#335547
+}
+
+.space {
+    color: #eaf7f3;
+}
+
+.nav-link {
+    color:#335547;  
+}
+
+.year {
+    text-align: right;
+}
