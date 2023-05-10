@@ -1,0 +1,39 @@
+body {
+    background: #38003c;
+    color: #00ff85;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
+
+header {
+    margin-top: 5%;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 5%;
+    font-size: 50px; 
+}
+
+video {
+    width: 100%;
+}
+
+.caption {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+a {
+    color: #00ff85;
+    text-decoration-color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+section {
+    margin: 10%;
+    height: 700px;
+    width: 100%; 
+}

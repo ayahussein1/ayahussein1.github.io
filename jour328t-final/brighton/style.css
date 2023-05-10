@@ -1,0 +1,65 @@
+body {
+    background: #005DAA;
+    color: #FFFFFF;
+    font-family: 'Radio Canada', sans-serif;
+    font-size: 22px;
+}
+
+h1 {
+    font-weight: 600; 
+    font-size: 3.5em;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.figure {
+    width: 100%;
+    height: 50%;
+    padding-top: 3%;
+}
+
+.caption {
+    font-size: .9em;
+}
+
+.graphic {
+    background: #ffffff;
+    padding: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.graphic1 {
+    background: #ffffff;
+    padding: 1%;
+    padding-bottom: 8%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.graphic2 {
+    background: #ffffff;
+    padding: 1%;
+    padding-bottom: 4.7%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.marchpic {
+    width: 30%;
+    text-align: center;
+    margin-left: 35.5%;
+}
+
+.marchcap {
+    font-size: 15px;
+}
